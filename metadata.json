@@ -1,0 +1,5 @@
+{
+  "name": "Social Insight AI",
+  "description": "A powerful tool to analyze social media profiles (YouTube, TikTok, Facebook, Instagram) using AI to extract stats, content style, and audience demographics for Excel export.",
+  "requestFramePermissions": []
+}
